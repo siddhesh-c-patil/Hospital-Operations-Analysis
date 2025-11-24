@@ -1,5 +1,4 @@
 # Healthcare SQL Data Analysis project
-<br>
 "A SQL project prepared using MySQL Workbench that answers key analytical questions related to hospital administration.”
 <br>
 **Project Ovcerview**
