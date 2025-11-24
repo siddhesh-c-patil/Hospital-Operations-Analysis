@@ -7,7 +7,7 @@ This project analyzes a sample healthcare database containing patient details an
 aggregations, grouping, filtering, and subqueries.
 
 # Dataset description
-Database includes two primary tables: Appointments and Patients
+Database includes two primary tables: Appointments and Patients <br>
 <br>
 Appointments table include columns as below: <br>
 Appointment_ID – Unique ID for each appointment <br>
