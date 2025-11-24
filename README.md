@@ -9,19 +9,19 @@ aggregations, grouping, filtering, and subqueries.
 # Dataset description
 Database includes two primary tables: Appointments and Patients
 <br>
-Appointments table include columns as below:
+Appointments table include columns as below: <br>
 Appointment_ID – Unique ID for each appointment <br>
 Patient_ID – Linked to Patients table <br>
 Doctor_name – Name of the doctor <br>
-Appointment_date – Scheduled date
-Department – Department assigned
+Appointment_date – Scheduled date <br>
+Department – Department assigned <br>
 
-Patients table include columns as below:
-Patient_ID – Unique patient ID
-Patient_name – Full name of the patient
-Age – Age of the patient
-Gender – Male/Female
-Admission_date – Date of admission
+Patients table include columns as below: <br>
+Patient_ID – Unique patient ID <br>
+Patient_name – Full name of the patient <br>
+Age – Age of the patient <br>
+Gender – Male/Female <br>
+Admission_date – Date of admission 
 <br>
 
 **Objective**
