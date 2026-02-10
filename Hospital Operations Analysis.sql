@@ -1,3 +1,4 @@
+--
 USE hospital;
 
 -- View tables
